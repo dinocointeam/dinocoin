@@ -1,0 +1,2 @@
+# dinocoin
+DinoCoin Cryptocurrency
